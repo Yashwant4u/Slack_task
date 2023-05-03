@@ -1,7 +1,7 @@
 variable "secrettaskvar" {
   default = {
-    access_key_sh        = "AKIARG6RSCXJTL2F4CWH"
-    secret_access_key_sh = "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"
+    access_key_sh        = ""
+    secret_access_key_sh = " "
   }
 
   type = map(string)
